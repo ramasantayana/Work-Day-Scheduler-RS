@@ -87,11 +87,9 @@ This Challenge is graded based on the following criteria:
 
 * Repository contains quality README file with description, screenshot, and link to deployed application
 
-## Review
+## Links
 
-You are required to submit the following for review:
-
-* The URL of the deployed application
+* https://ramasantayana.github.io/Work-Day-Scheduler-RS/
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
