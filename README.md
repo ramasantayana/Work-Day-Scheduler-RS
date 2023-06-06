@@ -91,7 +91,7 @@ This Challenge is graded based on the following criteria:
 
 * https://ramasantayana.github.io/Work-Day-Scheduler-RS/
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+* https://github.com/ramasantayana/Work-Day-Scheduler-RS.git
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
